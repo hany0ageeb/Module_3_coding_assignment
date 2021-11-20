@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Oxygen:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+body{
+	font-size: 18px;
+	font-family: 'Robot',san-serif;
+}
+#header-nav{
+	background-color: gray;
+}
+.navbar-brand h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0;
+	padding-bottom: 5px;
+	color:black;
+	text-decoration: none;
+}
+.navbar-brand a{
+	text-decoration: none;
+}
+#collapsable-nav{
+	background-color: gray;
+}
+#nav-list li:hover{
+	background-color: yellow;
+}
+#nav-list li a{
+	color : black;
+}
+.row p,.row h3{
+	background-color: gray;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#main-content-title{
+	margin-bottom: 35px;
+}
+.row p,.row h3{
+	padding: 8px;
+}
